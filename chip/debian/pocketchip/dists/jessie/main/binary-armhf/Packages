@@ -1,0 +1,1440 @@
+Package: ahoy
+Priority: optional
+Section: embedded
+Installed-Size: 40
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.4
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.4.0), libsdl2-2.0-0 (>= 2.0.0), libsdl2-image-2.0-0 (>= 2.0.0), libstdc++6 (>= 4.3.0)
+Filename: pool/main/a/ahoy/ahoy_0.4_armhf.deb
+Size: 5938
+MD5sum: e291cd6a947edff6818489552ea6d425
+SHA1: d2488eca241a43180d9acd2f378f31637b40376d
+SHA256: 5151923d55e942cdade70016d6959ed009a7ef3e7954570d58b793f72df7c74f
+Description: An image carousel program
+ An image carousel program designed to assist in end-user onboarding for PocketCHIP.
+Homepage: github.com/nextthingco
+
+Package: ahoy
+Priority: optional
+Section: embedded
+Installed-Size: 40
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.3
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.4.0), libsdl2-2.0-0 (>= 2.0.0), libsdl2-image-2.0-0 (>= 2.0.0), libstdc++6 (>= 4.3.0)
+Filename: pool/main/a/ahoy/ahoy_0.3_armhf.deb
+Size: 5728
+MD5sum: bdf5b3c727ecc321a77793adec7e65db
+SHA1: 8525b9dc6d277deb246db71f14fa6f44437ef10c
+SHA256: ba71f291b3ed867aa6750bb8b5aed5269ded85795ec2c5d4ab0522b7e55e18c5
+Description: An image carousel program
+ An image carousel program designed to assist in end-user onboarding for PocketCHIP.
+Homepage: github.com/nextthingco
+
+Package: ahoy
+Priority: optional
+Section: embedded
+Installed-Size: 40
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.2
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.4.0), libsdl2-2.0-0 (>= 2.0.0), libsdl2-image-2.0-0 (>= 2.0.0), libstdc++6 (>= 4.3.0)
+Filename: pool/main/a/ahoy/ahoy_0.2_armhf.deb
+Size: 5690
+MD5sum: 492d48f392353e578742503320eb47da
+SHA1: b2aeb24dd75b19bc683479ca4590d835f6f4c77a
+SHA256: eed83cd200a069321075181ac2a53eb4e951d94f980885695c35bfc62e4e3acd
+Description: An image carousel program
+ An image carousel program designed to assist in end-user onboarding for PocketCHIP.
+Homepage: github.com/nextthingco
+
+Package: chip-configs
+Priority: extra
+Section: misc
+Installed-Size: 183
+Maintainer: Ben Young <benjamin@nextthing.co>
+Architecture: all
+Version: 0.21
+Filename: pool/main/c/chip-configs/chip-configs_0.21_all.deb
+Size: 26722
+MD5sum: cd1c5837d11a9889d989dacd62f33eaa
+SHA1: 86159681ecee062716d6d81114a61d86ca164f3d
+SHA256: cec822c0f874b9bc873614f99f7f96665f168ddd4498e8fe33f68ef46f41fbdd
+Description: Userspace configuration for Chip.
+ Chip configs for themeing and functionality of openbox and tint2.
+Homepage: nextthing.co
+
+Package: chip-dt-overlays
+Priority: extra
+Section: misc
+Installed-Size: 59
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1
+Filename: pool/main/c/chip-dt-overlays/chip-dt-overlays_0.1_armhf.deb
+Size: 3806
+MD5sum: 5947c5bd6f96fd67016f1fe77d1c46ab
+SHA1: 40f470f06102d77af7f7f0ad4ffd020cfc6050e5
+SHA256: b84416538619ca77f8b46718f4dda22fced8194c29060c5249daa4e2784833b6
+Description: Device Tree Overlays.
+ Files for dynamically loading interfaces to new hardware.
+Homepage: nextthing.co
+
+Package: chip-exit
+Priority: extra
+Section: misc
+Installed-Size: 32
+Maintainer: Ben Young <benjamin@nextthing.co>
+Architecture: all
+Version: 0.1
+Depends: python-gtk2, upower
+Filename: pool/main/c/chip-exit/chip-exit_0.1_all.deb
+Size: 2584
+MD5sum: cd3145e7e67b47a3e81a6fc20c5d820a
+SHA1: 10eebe369202a7485af43188c549cfdc3c05d0cd
+SHA256: 44dbe33973fc1feff1a1e6b213de2f6a795bfc761935b794b448155b8a8e0bb3
+Description: Chip logout script.
+ GUI logout/shutdown/restart/lock
+ script.
+Homepage: https://crunchbangplusplus.org
+
+Package: chip-hwtest
+Priority: extra
+Section: misc
+Installed-Size: 53
+Maintainer: Alex Kaplan <software@nextthing.co>
+Architecture: armhf
+Version: 0.5
+Depends: stress, lshw, bc, gawk, mtd-utils
+Filename: pool/main/c/chip-hwtest/chip-hwtest_0.5_armhf.deb
+Size: 7436
+MD5sum: a90832601b9bdf7c911c2514ae596d21
+SHA1: 403f5af29719f2c80b779889551fc760823c25c5
+SHA256: ead1b35415648c8f0369b3f56b4405d57957afb32cf35952b584fa1127d5e7ba
+Description: C.H.I.P hardware diagnostic
+ Series of tests for checking the status of chip hardware.
+Homepage: http://nextthing.co
+
+Package: chip-input-reset
+Priority: optional
+Section: unknown
+Installed-Size: 42
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.4
+Filename: pool/main/c/chip-input-reset/chip-input-reset_0.4_all.deb
+Size: 2248
+MD5sum: f31e1f39472700c4ce75e68bd32d88a2
+SHA1: 767bfd9fd50034639390cf9cf8be96d4a53ca9f0
+SHA256: 0a6fc6f5c71acb724f9eb8ee5cf725db1b1923a86ff1a2dbba1ee8c0c3bf5947
+Description: A systemd service for USB inputs
+ Reloads evdev inputs after lightdm starts.
+Homepage: nextthing.co
+
+Package: chip-metapackage
+Priority: optional
+Section: unknown
+Installed-Size: 26
+Maintainer: Ben Young <benjamin@nextthing.co>
+Architecture: all
+Version: 0.5
+Depends: chip-configs, chip-exit, chip-theme, chip-hwtest, chip-input-reset, chip-power
+Filename: pool/main/c/chip-metapackage/chip-metapackage_0.5_all.deb
+Size: 1828
+MD5sum: 5424305061b982f5874fa5a9392134d9
+SHA1: 8479da0928894d2b876af685c038a58030049f70
+SHA256: 86249debb175c3bd303b1b73387c9891b5f9fbde9bb7982c538ac18c4736cc8e
+Description: Metapackage for chip.
+ Basic metapackage for chip.
+Homepage: nextthing.co
+
+Package: chip-pico-8
+Priority: optional
+Section: embedded
+Installed-Size: 9906
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1.11g.ntc0
+Depends: libc6 (>= 2.7), libcurl3 (>= 7.16.2), libsdl2-2.0-0 (>= 2.0.0)
+Filename: pool/main/c/chip-pico-8/chip-pico-8_0.1.11g.ntc0_armhf.deb
+Size: 2771756
+MD5sum: f405640496b51c92e8228f74476bc7a1
+SHA1: 800bad11ff5a24228e1dabc3d58ac32b405024ea
+SHA256: c7acbab5c56ac17dbe5c935f55bcf0dfc3b012b0d9d67bc29d6871b700f6ace8
+Description: PICO-8 fantasy console
+ PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges.
+Homepage: lexaloffle.com/pico-8.php
+
+Package: chip-pico-8
+Priority: optional
+Section: embedded
+Installed-Size: 2593
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1.10c.ntc0
+Depends: libc6 (>= 2.7), libcurl3 (>= 7.16.2)
+Filename: pool/main/c/chip-pico-8/chip-pico-8_0.1.10c.ntc0_armhf.deb
+Size: 1320604
+MD5sum: 07a8c23e00c05da240a41f53114d3597
+SHA1: 5f079bccf1c374dbdbe7afe3a4ef108b0fc7454b
+SHA256: 83b41f5f13dacbb9b267461f5cea7317586817cf927e5f46df6e2152e25553ca
+Description: PICO-8 fantasy console
+ PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges.
+Homepage: lexaloffle.com/pico-8.php
+
+Package: chip-power
+Priority: optional
+Section: unknown
+Installed-Size: 80
+Maintainer: Jose Torres <software@nextthing.co>
+Architecture: all
+Version: 0.2
+Depends: i2c-tools
+Filename: pool/main/c/chip-power/chip-power_0.2_all.deb
+Size: 8434
+MD5sum: 595d8c927ad175a737cec1d12db0e0b4
+SHA1: 85bc852328eed577039e7fbd5b802e1382a2688b
+SHA256: b091220bd1fccb21d50135784a13a33cf09e31a0cc7c2aae9f2f971b9a213787
+Description: Power management scripts for C.H.I.P.
+ Scripts for interacting with AXP209 power management unit on C.H.I.P.
+Homepage: nextthing.co
+
+Package: chip-sunvox
+Priority: optional
+Section: embedded
+Installed-Size: 15913
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 1.9.2.ntc0
+Depends: libsdl1.2debian
+Filename: pool/main/c/chip-sunvox/chip-sunvox_1.9.2.ntc0_armhf.deb
+Size: 6736566
+MD5sum: 9dcf108721c3d36a7acab044673ea4e8
+SHA1: f3839b5ed9a63d75d1e9f3ee73b092cccb9ca145
+SHA256: 5fbcac94e9a76bbc163f54ab64440ee48e2f643ba3f77b3c635cbc0ef2056faa
+Description: Music synth and tracker
+ Sunvox is a small, fast and powerful modular synthesizer with pattern-based sequencer. It is a tool for those people who like to compose music wherever they are, whenever they wish.
+Homepage: <www.warmplace.ru/soft/sunvox>
+
+Package: chip-sunvox
+Priority: optional
+Section: embedded
+Installed-Size: 14592
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 1.9.1.ntc1
+Depends: libsdl1.2debian
+Filename: pool/main/c/chip-sunvox/chip-sunvox_1.9.1.ntc1_armhf.deb
+Size: 6530316
+MD5sum: fd3aeac21cc9614ed97e39bc5d511a31
+SHA1: 4295bc11fbe8f2b5f87d7c32ed6b536243c6b7f6
+SHA256: a6d252a54795b5e79fe335f6486831e7236eb060694a2f18e5dc92c8959bf6a9
+Description: Music synth and tracker
+ Sunvox is a small, fast and powerful modular synthesizer with pattern-based sequencer. It is a tool for those people who like to compose music wherever they are, whenever they wish.
+Homepage: <www.warmplace.ru/soft/sunvox>
+
+Package: chip-sunvox
+Priority: optional
+Section: embedded
+Installed-Size: 9
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 1.9.1
+Depends: libsdl1.2debian
+Filename: pool/main/c/chip-sunvox/chip-sunvox_1.9.1_armhf.deb
+Size: 1968
+MD5sum: 229976d9242ae1c94b0ac37206e43662
+SHA1: 1ffd6556892f71bdfa7712cb738c394543c52c32
+SHA256: 17e4818eb63daac8f602aacf3c134c006393cfebf2e7f5d2311967b2645607b7
+Description: Music synth and tracker
+ Sunvox is a small, fast and powerful modular synthesizer with pattern-based sequencer. It is a tool for those people who like to compose music wherever they are, whenever they wish.
+Homepage: <www.warmplace.ru/soft/sunvox>
+
+Package: chip-theme
+Priority: optional
+Section: unknown
+Installed-Size: 212
+Maintainer: Ben Young <benjamin@nextthing.co>
+Architecture: all
+Version: 0.1
+Filename: pool/main/c/chip-theme/chip-theme_0.1_all.deb
+Size: 19578
+MD5sum: c7fd928c706e3f3cd3ab28ade0924a26
+SHA1: 46646a7a841ec373fec44575723df4418362ca16
+SHA256: 0d7ba9d7040e4b00069f37900e6f8d463ee3002122eb45690aeb0476b0b10c62
+Description: default theme for chip
+ Default gtk theme for chip
+Homepage: nextthing.co
+
+Package: leafpad
+Priority: optional
+Section: editors
+Installed-Size: 307
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Architecture: armhf
+Version: 0.8.18.1-4.ntc
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.24.0), libgtk2.0-0 (>= 2.10.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
+Suggests: evince-gtk
+Filename: pool/main/l/leafpad/leafpad_0.8.18.1-4.ntc_armhf.deb
+Size: 86900
+MD5sum: 7e652f37d55f83702ad0ed976a55a38c
+SHA1: 415c475147bef7ba6bb8aafdaeaa5173683afd18
+SHA256: 3cb64a57e2d809d53ac00e7c72b8cb9ab5572832bcfc8505d88e7395371b60fb
+Description: GTK+ based simple text editor
+ Leafpad is a simple GTK+ based text editor, the user interface is
+ similar to Notepad. It aims to be lighter than GEdit and KWrite,
+ and to be as useful as them.
+Homepage: http://tarot.freeshell.org/leafpad/
+
+Package: libplymouth-dev
+Priority: optional
+Section: libdevel
+Installed-Size: 494
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Source: plymouth
+Version: 0.9.2-3~bpo3+1
+Replaces: plymouth-dev (<< 0.9.2-1~)
+Depends: libplymouth4 (= 0.9.2-3~bpo3+1)
+Breaks: plymouth-dev (<< 0.9.2-1~)
+Filename: pool/main/p/plymouth/libplymouth-dev_0.9.2-3-bpo3+1_armhf.deb
+Size: 99336
+MD5sum: 1eef4e1317290b5de51ee8685b87a5b9
+SHA1: 0177aed356113a8945bf334af1e5267b4369fbe6
+SHA256: e074b28ab74758969dc4b4d868d46d69ba1e487f54026a7d5146a43cd7025fba
+Description: graphical boot animation and logger - development files
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the development files to build Plymouth plugins.
+Multi-Arch: same
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+
+Package: libplymouth4
+Priority: optional
+Section: libs
+Installed-Size: 241
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Source: plymouth
+Version: 0.9.2-3~bpo3+1
+Replaces: plymouth (<< 0.9.2-1~)
+Depends: libc6 (>= 2.9), libpng12-0 (>= 1.2.13-4), libudev1 (>= 183)
+Pre-Depends: multiarch-support
+Breaks: plymouth (<< 0.9.2-1~)
+Filename: pool/main/p/plymouth/libplymouth4_0.9.2-3-bpo3+1_armhf.deb
+Size: 82412
+MD5sum: 0cfd9d240c651cc6183d1f2aabb181d2
+SHA1: 100f336a9a55dd4a1c988529433c5acb3856ef0b
+SHA256: 1578b8fcfbdcf49dc779e34993b8efcb539996b9c31db49816d138d372026b1b
+Description: graphical boot animation and logger - shared libraries
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the shared libraries.
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Multi-Arch: same
+
+Package: libsdl2-2.0-0
+Priority: optional
+Section: libs
+Installed-Size: 677
+Maintainer: Debian SDL packages maintainers <pkg-sdl-maintainers@lists.alioth.debian.org>
+Architecture: armhf
+Source: libsdl2
+Version: 2.0.2+dfsg1-6
+Replaces: libsdl-1.3-0
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.15), libx11-6 (>= 2:1.2.99.901), libxcursor1 (>> 1.1.2), libxext6, libxi6 (>= 2:1.2.99.4), libxinerama1, libxrandr2 (>= 2:1.2.0), libxss1, libxxf86vm1
+Pre-Depends: multiarch-support
+Conflicts: libsdl-1.3-0
+Filename: pool/main/libs/libsdl2/libsdl2-2.0-0_2.0.2+dfsg1-6_armhf.deb
+Size: 278878
+MD5sum: 36b38920848d8adc372bfc8f4818ed00
+SHA1: 3955bc491a14b69f5e6e5c342e62ca87cd809d58
+SHA256: a6938878a0fdd156021ed5aa12f86b6380a1fbd3da209705a98c4d9c417477e9
+Description: Simple DirectMedia Layer
+ SDL is a library that allows programs portable low level access to
+ a video framebuffer, audio output, mouse, and keyboard.
+ .
+ This version of SDL is compiled with X11, caca and DirectFB graphics
+ drivers and OSS, ALSA, NAS and PulseAudio sound drivers.
+Multi-Arch: same
+Homepage: http://www.libsdl.org/
+
+Package: libsdl2-dbg
+Priority: extra
+Section: debug
+Installed-Size: 1362
+Maintainer: Debian SDL packages maintainers <pkg-sdl-maintainers@lists.alioth.debian.org>
+Architecture: armhf
+Source: libsdl2
+Version: 2.0.2+dfsg1-6
+Depends: libsdl2-2.0-0 (= 2.0.2+dfsg1-6)
+Filename: pool/main/libs/libsdl2/libsdl2-dbg_2.0.2+dfsg1-6_armhf.deb
+Size: 1133170
+MD5sum: abbb3d84078ea7ac7e0b043865c93436
+SHA1: 2327630230424e44a4be03be716ab87b9df55a40
+SHA256: 81c85128f97d2fd8194d838355091d9a9cdcc18bd034ca50c29346c6b6b3f23c
+Description: Simple DirectMedia Layer debug files
+ SDL is a library that allows programs portable low level access to a video
+ framebuffer, audio output, mouse, and keyboard.
+ .
+ This package contains the debug symbols for the SDL library.
+Homepage: http://www.libsdl.org/
+Multi-Arch: same
+
+Package: libsdl2-dev
+Priority: optional
+Section: libdevel
+Installed-Size: 3246
+Maintainer: Debian SDL packages maintainers <pkg-sdl-maintainers@lists.alioth.debian.org>
+Architecture: armhf
+Source: libsdl2
+Version: 2.0.2+dfsg1-6
+Replaces: libsdl-1.3-dev
+Depends: libsdl2-2.0-0 (= 2.0.2+dfsg1-6), libasound2-dev, libdbus-1-dev, libegl1-mesa-dev, libgl1-mesa-dev, libgles2-mesa-dev, libglu1-mesa-dev, libpulse-dev, libudev-dev, libwayland-dev, libx11-dev, libxcursor-dev, libxext-dev, libxi-dev, libxinerama-dev, libxkbcommon-dev, libxrandr-dev, libxss-dev, libxt-dev, libxv-dev, libxxf86vm-dev
+Conflicts: libsdl-1.3-dev
+Filename: pool/main/libs/libsdl2/libsdl2-dev_2.0.2+dfsg1-6_armhf.deb
+Size: 1059220
+MD5sum: e0f1b1febd26e8a30a670c3bef91b153
+SHA1: d27d69c5c006d3c3bb2c2c8fb10f81957f0b773a
+SHA256: b8a481b4a5030d1ec2802cf18cddc23c6ebcef58f0d9f653b369e493c562afe7
+Description: Simple DirectMedia Layer development files
+ SDL is a library that allows programs portable low level access to a video
+ framebuffer, audio output, mouse, and keyboard.
+ .
+ This package contains the files needed to compile and link programs which
+ use SDL.
+Homepage: http://www.libsdl.org/
+
+Package: linux-image-4.3.0-ntc
+Priority: optional
+Section: kernel
+Installed-Size: 20084
+Maintainer: NextThingCo <software@nextthing.co>
+Architecture: armhf
+Source: linux-4.3.0-ntc
+Version: 4.3.0-45
+Provides: linux-image, linux-image-2.6, linux-modules-4.3.0-ntc
+Suggests: linux-firmware-image-4.3.0-ntc
+Filename: pool/main/l/linux-4.3.0-ntc/linux-image-4.3.0-ntc_4.3.0-45_armhf.deb
+Size: 7363822
+MD5sum: 88f346336be2bc869c688ed5dd1d55de
+SHA1: f1ea9ec46aec19ab354d859387d4971c29eeabff
+SHA256: dc245d661a66d211355f1484eaa8159f197c581b233775738d2c423ac00b6fe7
+Description: Linux kernel, version 4.3.0-ntc
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.3.0-ntc.
+Homepage: http://www.kernel.org/
+
+Package: linux-image-4.3.0-ntc
+Priority: optional
+Section: kernel
+Installed-Size: 20142
+Maintainer: NextThingCo <software@nextthing.co>
+Architecture: armhf
+Source: linux-4.3.0-ntc
+Version: 4.3.0-42
+Provides: linux-image, linux-image-2.6, linux-modules-4.3.0-ntc
+Suggests: linux-firmware-image-4.3.0-ntc
+Filename: pool/main/l/linux-4.3.0-ntc/linux-image-4.3.0-ntc_4.3.0-42_armhf.deb
+Size: 7354444
+MD5sum: f1704d7db1e06e54bf70fbc6f550a262
+SHA1: 08a02e17bd6dd426fcaf4e0d4c893de4dcd97741
+SHA256: c453074d31967456b380239a880e3006ef8f15113cccf3019205e5457dadf016
+Description: Linux kernel, version 4.3.0-ntc
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.3.0-ntc.
+Homepage: http://www.kernel.org/
+
+Package: linux-image-4.3.0-ntc
+Priority: optional
+Section: kernel
+Installed-Size: 20142
+Maintainer: NextThingCo <software@nextthing.co>
+Architecture: armhf
+Source: linux-4.3.0-ntc
+Version: 4.3.0-40
+Provides: linux-image, linux-image-2.6, linux-modules-4.3.0-ntc
+Suggests: linux-firmware-image-4.3.0-ntc
+Filename: pool/main/l/linux-4.3.0-ntc/linux-image-4.3.0-ntc_4.3.0-40_armhf.deb
+Size: 7352210
+MD5sum: 5634916d8033e3867c0fb8ae01693df7
+SHA1: c72db5546d9e3366509f877f0507072aa0dcf484
+SHA256: b730d009d9b9d6a19777caa4aa3fe91b9d891dd9acd52ce305c7c6cc549e49b2
+Description: Linux kernel, version 4.3.0-ntc
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.3.0-ntc.
+Homepage: http://www.kernel.org/
+
+Package: pcmanfm
+Priority: optional
+Section: utils
+Installed-Size: 1213
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Architecture: armhf
+Version: 1.2.3-1.1.ntc
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfm-gtk4 (>= 1.2.0), libfm4 (>= 1.2.0), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.20.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6
+Recommends: gvfs-backends, gvfs-fuse, policykit-1-gnome | mate-polkit | lxpolkit (<< 0.4.9), lxde-icon-theme | gnome-icon-theme | oxygen-icon-theme | tango-icon-theme
+Filename: pool/main/p/pcmanfm/pcmanfm_1.2.3-1.1.ntc_armhf.deb
+Size: 253884
+MD5sum: 43093aa10948bbf26ffb344a9ec4cf1b
+SHA1: 0e997a437b497cb9defb2e303d4c63d765cac61c
+SHA256: cc9eeb5fbcb73059e6ec82abb0f21f49bd96b3753cd3d6bb3afb6a14adebaaa3
+Description: extremely fast and lightweight file manager
+ PCMan File Manager is a GTK+ based file manager, featuring:
+ .
+  * Extremly fast and lightweight
+  * Can be started in one second on normal machine
+  * Tabbed browsing (similar to Firefox)
+  * Drag & Drop support
+  * Files can be dragged among tabs
+  * Load large directories in reasonable time
+  * File association support (Default application)
+  * Basic thumbnail support
+  * Bookmarks support
+  * Handles non-UTF-8 encoded filenames correctly
+  * Provide icon view and detailed list view
+  * Standard compliant (Follows FreeDesktop.org)
+  * Clean and user-friendly interface (GTK+ 2)
+  * Support GVFS for auto-mount handling on removable devices
+Homepage: http://pcmanfm.sourceforge.net/
+
+Package: plymouth
+Priority: optional
+Section: misc
+Installed-Size: 449
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Version: 0.9.2-3~bpo3+1
+Replaces: plymouth-drm (<< 0.9.0-6~), plymouth-themes (<< 0.9.0-8~)
+Depends: libc6 (>= 2.10), libdrm2 (>= 2.4.25), libplymouth4 (>= 0.9.2), initramfs-tools | dracut, init-system-helpers (>= 1.18)
+Suggests: desktop-base, plymouth-themes
+Conflicts: console-common
+Breaks: plymouth-drm (<< 0.9.0-6~), plymouth-themes (<< 0.9.0-8~)
+Filename: pool/main/p/plymouth/plymouth_0.9.2-3-bpo3+1_armhf.deb
+Size: 105348
+MD5sum: c1222638966b1c48393c0e9d891eceb2
+SHA1: 9d0c7537227523b8e3eaf9799e85dc2246de4595
+SHA256: b2c30222843986941bc2bbf7df67e3c0f0578fff261ad14bb700ca61c0df8c60
+Description: boot animation, logger and I/O multiplexer
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package provides the basic framework, enabling a text-mode animation.
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+
+Package: plymouth-dbg
+Priority: extra
+Section: debug
+Installed-Size: 839
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Source: plymouth
+Version: 0.9.2-3~bpo3+1
+Depends: plymouth (= 0.9.2-3~bpo3+1), libplymouth4 (= 0.9.2-3~bpo3+1), plymouth-x11 (= 0.9.2-3~bpo3+1), libplymouth-dev (= 0.9.2-3~bpo3+1), plymouth-themes (= 0.9.2-3~bpo3+1)
+Filename: pool/main/p/plymouth/plymouth-dbg_0.9.2-3-bpo3+1_armhf.deb
+Size: 563814
+MD5sum: f010eb0ed5f414785555ad2331e63fa6
+SHA1: cf7b79899aa1f46d918ddac6a493769fd7b46724
+SHA256: a90aae5fa83b7109eb8d3627a75b4d256eb2ef174076727e99082b08dcf5feb3
+Description: boot animation, logger and I/O multiplexer - debug symbols
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package contains the debugging symbols.
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+
+Package: plymouth-themes
+Priority: optional
+Section: misc
+Installed-Size: 883
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Source: plymouth
+Version: 0.9.2-3~bpo3+1
+Replaces: plymouth-drm (<< 0.9.0-6~), plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Provides: plymouth-theme, plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Depends: libc6 (>= 2.8), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.12.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libplymouth4 (>= 0.9.2), plymouth (= 0.9.2-3~bpo3+1), fontconfig-config, fonts-dejavu-core | ttf-dejavu-core
+Conflicts: plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Breaks: plymouth-drm (<< 0.9.0-6~)
+Filename: pool/main/p/plymouth/plymouth-themes_0.9.2-3-bpo3+1_armhf.deb
+Size: 738506
+MD5sum: b9472527e5f22f503c87d2dfa3b9614c
+SHA1: 622011062145cb173666b9f9bfd3f3ad2150e7a9
+SHA256: 8146dee2b051714c0372faeec03b320cd1ad54843ebbbe41ba5a9a0da84c7ef5
+Description: boot animation, logger and I/O multiplexer - themes
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package provides the following themes:
+ .
+  * fade-in: features a centered logo that fades in and out while stars twinkle
+    around the logo during system boot up.
+  * glow: features a pie chart as progress indicator.
+  * script: features a simple base theme.
+  * solar: features a blue flamed sun with animated solar flares.
+  * spinfinity: features a centered logo and animated spinner that spins in the
+    shape of an infinity sign.
+  * spinner: features a simple theme with a small spinner on a dark background.
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+
+Package: plymouth-x11
+Priority: optional
+Section: misc
+Installed-Size: 62
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Architecture: armhf
+Source: plymouth
+Version: 0.9.2-3~bpo3+1
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.12.0), libgtk-3-0 (>= 3.14.0), libplymouth4 (>= 0.9.2), plymouth (= 0.9.2-3~bpo3+1)
+Recommends: plymouth-themes
+Suggests: gdm
+Filename: pool/main/p/plymouth/plymouth-x11_0.9.2-3-bpo3+1_armhf.deb
+Size: 16222
+MD5sum: 6f999fbf87709e7262166309aa819b0d
+SHA1: a42ff08e792d0959a47152e03162ae4e8dec7acd
+SHA256: 40ca58fd69d07fc48734c021089edd9f4d3f01ee73f303f89326ea0bc28665ed
+Description: boot animation, logger and I/O multiplexer - X11 renderer
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package contains the X11 renderer for a graphical boot splash.
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+
+Package: pocket-home
+Priority: optional
+Section: x11
+Installed-Size: 2305
+Maintainer: Andrew Hay Kurtz <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.5
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.12), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.4.0), libglib2.0-0 (>= 2.16.0), libnm-glib4 (>= 0.9.8.8), libnm-util2 (>= 0.8.998), libstdc++6 (>= 4.5), libx11-6, libxext6, libxinerama1, network-manager
+Filename: pool/main/p/pocket-home/pocket-home_0.0.5_armhf.deb
+Size: 1009684
+MD5sum: c35a3fe18fe0468e15cd369851cd2e77
+SHA1: e9b59d8f30d74eecc87c3a4386439cca0c88cede
+SHA256: f704ee23962f25bfce9c5c95d17d5d60caf80e24eaddd131e018310e8d843f8f
+Description: pocket-home is a home screen for PocketCHIP.
+ pocket-home is a home screen for PocketCHIP. It can launch programs and change system settings.
+Homepage: opensource.nextthing.co
+
+Package: pocket-home
+Priority: optional
+Section: x11
+Installed-Size: 2305
+Maintainer: Andrew Hay Kurtz <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.4
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.12), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.4.0), libglib2.0-0 (>= 2.16.0), libnm-glib4 (>= 0.9.8.8), libnm-util2 (>= 0.8.998), libstdc++6 (>= 4.5), libx11-6, libxext6, libxinerama1, network-manager
+Filename: pool/main/p/pocket-home/pocket-home_0.0.4_armhf.deb
+Size: 1009854
+MD5sum: edb72ae261ed24cd5e988ed450332e30
+SHA1: 75df7a40b494d4dcbc63ee21f1f6168e9a916508
+SHA256: 9e3500de1c1d051bc6411094e7ddfefb086d7f3fea2b1d7ac4733a6b85e8217c
+Description: pocket-home is a home screen for PocketCHIP.
+ pocket-home is a home screen for PocketCHIP. It can launch programs and change system settings.
+Homepage: opensource.nextthing.co
+
+Package: pocket-home
+Priority: optional
+Section: x11
+Installed-Size: 2183
+Maintainer: Andrew Hay Kurtz <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.3
+Depends: libc6 (>= 2.12), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.4.0), libglib2.0-0 (>= 2.16.0), libnm-glib4 (>= 0.9.8.8), libnm-util2 (>= 0.8.998), libstdc++6 (>= 4.5), libx11-6, libxext6, libxinerama1, network-manager
+Filename: pool/main/p/pocket-home/pocket-home_0.0.3_armhf.deb
+Size: 1008970
+MD5sum: f1cc8078f0dda266af129ff410535215
+SHA1: e3091c75950d843dc7b43ec35b423507faf34f3c
+SHA256: 7006da5fdc6d3b31645a6a0f07f436aeb76871360a7fcabce1dad125da8d600f
+Description: pocket-home is a home screen for PocketCHIP.
+ pocket-home is a home screen for PocketCHIP. It can launch programs and change system settings.
+Homepage: opensource.nextthing.co
+
+Package: pocket-home
+Priority: optional
+Section: x11
+Installed-Size: 2659
+Maintainer: Andrew Hay Kurtz <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.2
+Depends: libc6 (>= 2.12), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.4.0), libglib2.0-0 (>= 2.16.0), libnm-glib4 (>= 0.9.8.8), libnm-util2 (>= 0.8.998), libstdc++6 (>= 4.5), libx11-6, libxext6, libxinerama1, network-manager
+Filename: pool/main/p/pocket-home/pocket-home_0.0.2_armhf.deb
+Size: 1124966
+MD5sum: 36f0b71b4ef7fb23130810d80c5bb91e
+SHA1: cb74b14e81c69dbad93d4566b13c81e26275be88
+SHA256: 97d217bce461c4d44b94859df9b4d747a5927fdfbae78b7f40617ce74888af5a
+Description: pocket-home is a home screen for PocketCHIP.
+ pocket-home is a home screen for PocketCHIP. It can launch programs and change system settings.
+Homepage: opensource.nextthing.co
+
+Package: pocket-home
+Priority: optional
+Section: x11
+Installed-Size: 2527
+Maintainer: Andrew Hay Kurtz <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.1
+Depends: libc6 (>= 2.12), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.4.0), libstdc++6 (>= 4.5), libx11-6, libxext6, libxinerama1
+Filename: pool/main/p/pocket-home/pocket-home_0.0.1_armhf.deb
+Size: 1123630
+MD5sum: 394315b6f72668480fae40ab0de1a82a
+SHA1: f824a704b5e048626bb4a4724c6d6dd74db8d65a
+SHA256: b8cdcc02fa4e8c24c5f9cef85d5302a0090e049755482594d845747f83ad55aa
+Description: pocket-home is a home screen for PocketCHIP.
+ pocket-home is a home screen for PocketCHIP. It can launch programs and change system settings.
+Homepage: opensource.nextthing.co
+
+Package: pocket-wm
+Priority: optional
+Section: x11
+Installed-Size: 59
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.2
+Provides: x-window-manager
+Depends: libc6 (>= 2.4), libx11-6, libxinerama1
+Recommends: xterm | x-terminal-emulator
+Filename: pool/main/p/pocket-wm/pocket-wm_0.0.2_armhf.deb
+Size: 15934
+MD5sum: 9b242e5fffb91ffe8908fcf0078e3cfa
+SHA1: e2e0295b1198538a773dab21c309e5383855d864
+SHA256: cf3681262a68b21f6ad8b4e70ee16d5cc4e4bd535c4f60f5687387344034040a
+Description: Full screen mobile window manager
+ Full screen mobile window manager.
+Homepage: opensource.nextthing.co
+
+Package: pocket-wm
+Priority: optional
+Section: x11
+Installed-Size: 59
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.0.1
+Provides: x-window-manager
+Depends: libc6 (>= 2.4), libx11-6, libxinerama1
+Recommends: xterm | x-terminal-emulator
+Filename: pool/main/p/pocket-wm/pocket-wm_0.0.1_armhf.deb
+Size: 15882
+MD5sum: 095e56344d2fae64bd51da10aa906f31
+SHA1: d8ca62f39e35a514a5fabdf7d21b35529e44be69
+SHA256: 51a74eecb53a3812c785a70764b3fa07b3ff823ed6c4b5ba858ef5a3b94dcfe0
+Description: Full screen mobile window manager
+ Full screen mobile window manager.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-alex4
+Priority: optional
+Section: games
+Installed-Size: 11
+Maintainer: computermouth <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Depends: alex4
+Filename: pool/main/p/pocketchip-alex4/pocketchip-alex4_0.1_all.deb
+Size: 1422
+MD5sum: 60c6fe82f4abd52538f46c9f029394ba
+SHA1: 076181f78621b386320aaf2dd3b0cd17585954ca
+SHA256: efeddd1556b0a1a2bcd80b53c569a117490c84cfe0c30ee142d435a39dfca647
+Description: Pocketchip wrapper package for alex4
+ Pocketchip wrapper package for alex4
+Homepage: https://github.com/nextthingco
+
+Package: pocketchip-batt
+Priority: optional
+Section: unknown
+Installed-Size: 30
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.2
+Filename: pool/main/p/pocketchip-batt/pocketchip-batt_0.2_all.deb
+Size: 2646
+MD5sum: 4ec6bbfb82d53caae5fc6196199b6c4e
+SHA1: 5b5879f830deedeae02bd73fbde448fd063a5864
+SHA256: 7eae6a380124b12131617ccce891c815700da5a5dcb94e607fedfc70e0bd5079
+Description: A battery monitor service
+ Polls the axp209 regularly for a readout on battery information
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-batt
+Priority: optional
+Section: unknown
+Installed-Size: 49
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Filename: pool/main/p/pocketchip-batt/pocketchip-batt_0.1_all.deb
+Size: 1906
+MD5sum: 2f886ea046bbc557e1690bba744b7fe5
+SHA1: 2fe59df45d12f6e2117596340f52d8febdc92a04
+SHA256: 0801ea6b5883c5ae0d4105522d996ec0149aa0b3e7602346f4f67a89e3a8556b
+Description: A battery monitor service
+ Polls the axp209 regularly for a readout on battery information
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-configs
+Priority: optional
+Section: unknown
+Installed-Size: 56
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.5
+Filename: pool/main/p/pocketchip-configs/pocketchip-configs_0.5_all.deb
+Size: 13288
+MD5sum: b08d447020d47669720c56728c982994
+SHA1: 84f9b0a46b3a0f8cc4d1fc304cea610a3df0c5ae
+SHA256: 8a0761a665da888b1891520c64b55cdd185a2a35ee971ab5dc4551f338a24b97
+Description: Configuration files for PocketCHIP
+ Configuration files for PocketCHIP, like touchscreen calibration and
+ keyboard mapping.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-configs
+Priority: optional
+Section: unknown
+Installed-Size: 61
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.4
+Filename: pool/main/p/pocketchip-configs/pocketchip-configs_0.4_all.deb
+Size: 11552
+MD5sum: 86fa59a61b5155c15acdfe1b34b11392
+SHA1: de9c172116cb4dcb4c99bf80302c3ac740f43071
+SHA256: 55129c2202a2902f389c607904602ece7d1d1a57bc01a5bfd9594b9af9fbe7ff
+Description: Configuration files for PocketCHIP
+ Configuration files for PocketCHIP, like touchscreen calibration and
+ keyboard mapping.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-configs
+Priority: optional
+Section: unknown
+Installed-Size: 58
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.3
+Filename: pool/main/p/pocketchip-configs/pocketchip-configs_0.3_all.deb
+Size: 10266
+MD5sum: 73c10cf2d7276fa788d1d859e1839f93
+SHA1: 11485f4de1ab84885723427b62ce1af57587a6f0
+SHA256: 4be7ed61f6f0b8cb6bab1f52f1fa00f4da0177201f688aaf49f2a3590cc65c89
+Description: Configuration files for PocketCHIP
+ Configuration files for PocketCHIP, like touchscreen calibration and
+ keyboard mapping.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-configs
+Priority: optional
+Section: unknown
+Installed-Size: 58
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.2
+Filename: pool/main/p/pocketchip-configs/pocketchip-configs_0.2_all.deb
+Size: 10180
+MD5sum: 4af9aa799754f5fc349cf4a27b2e9ea5
+SHA1: 75e3857f725056547b34e18655392762e5c8485f
+SHA256: 19f983c0ba723f1b306e5d3e7d27c4af67f11a5a49e45dce8c7f7818d79fd81d
+Description: Configuration files for PocketCHIP
+ Configuration files for PocketCHIP, like touchscreen calibration and
+ keyboard mapping.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-configs
+Priority: optional
+Section: unknown
+Installed-Size: 75
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Filename: pool/main/p/pocketchip-configs/pocketchip-configs_0.1_all.deb
+Size: 5246
+MD5sum: ba8219cc22d0370d0808a7a5cdc84458
+SHA1: 37748b4f58158a4801d337e4d4603fbf8b528fc0
+SHA256: c7d838798cf107e450ef35c1cf55b9fef0d41b877702063a446a71d98a371cab
+Description: Configuration files for PocketCHIP
+ Configuration files for PocketCHIP, like touchscreen calibration and
+ keyboard mapping.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-gotofel
+Priority: optional
+Section: embedded
+Installed-Size: 11
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Depends: mtd-utils
+Filename: pool/main/p/pocketchip-gotofel/pocketchip-gotofel_0.1_all.deb
+Size: 2148
+MD5sum: 6d38be53337a516279c7faaf021a9d4c
+SHA1: 6edd7dd911f6e5a0cc7bc46f691ec14762fff7e6
+SHA256: 6ef2d9d543c4a4a23499fbc8afde3cd95c5d115af0e6e27127e71ab81da04f16
+Description: Flash preparation scripts
+ Script to put PocketCHIP into a flashable state from inside the OS.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-list
+Priority: optional
+Section: embedded
+Installed-Size: 14
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.3
+Filename: pool/main/p/pocketchip-list/pocketchip-list_0.3_all.deb
+Size: 2944
+MD5sum: a3c1ebb706957060445878811f70d492
+SHA1: 2b35d6fa6a147079118cc3b331da092e4846ca92
+SHA256: d1451efb3b5ca079a2e75883bcccd67ddbca3c2867515d301b7b5b13178b55ef
+Description: Pocketchip master application list
+ Official list of verified-working applications
+Homepage: https://github.com/nextthingco
+
+Package: pocketchip-list
+Priority: optional
+Section: embedded
+Installed-Size: 14
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.2
+Filename: pool/main/p/pocketchip-list/pocketchip-list_0.2_all.deb
+Size: 2908
+MD5sum: ba6d3430723dfe85a7d0b853a574ae2f
+SHA1: e1d41716eb0ea11f54e95a0360346f40422c160b
+SHA256: 974675e488671f28f97c24b3b033342f3527f3dd83d8f4c144025b7822f4a1c2
+Description: Pocketchip master application list
+ Official list of verified-working applications
+Homepage: https://github.com/nextthingco
+
+Package: pocketchip-list
+Priority: optional
+Section: embedded
+Installed-Size: 14
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Filename: pool/main/p/pocketchip-list/pocketchip-list_0.1_all.deb
+Size: 2830
+MD5sum: 3e25bca818f310931f93e5ade32244c5
+SHA1: 1056346b4673d327619b90fbfc3429f5f05dc926
+SHA256: 8ca6049fd10745fbd086dba4ba3c64f943235be79d80a38bb0973bf6bf6394f7
+Description: Pocketchip master application list
+ Official list of verified-working applications
+Homepage: https://github.com/nextthingco
+
+Package: pocketchip-load
+Priority: optional
+Section: unknown
+Installed-Size: 16
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.3
+Filename: pool/main/p/pocketchip-load/pocketchip-load_0.3_armhf.deb
+Size: 2124
+MD5sum: 816f09c3fcaf2ec2c6e550ffe743137f
+SHA1: 726670e00d3612d8ac429080757088be5e62e70d
+SHA256: 835fc6f26a613ac6fb90ffb840924c95e6062f1a739f52bbbaa7f54d8c64e967
+Description: Systemd service to load PocketCHIP configs
+ This service checks to see if the booting CHIP is inside a pocketchip, and
+ in response, loads or doesn't load several configuration files.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-load
+Priority: optional
+Section: unknown
+Installed-Size: 16
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.2
+Filename: pool/main/p/pocketchip-load/pocketchip-load_0.2_armhf.deb
+Size: 2380
+MD5sum: 529de7e54b4f67c26cfbc82c858b23f9
+SHA1: 9211f4b62649075a91e52ea406bd0c698c37c350
+SHA256: 812d49ac30783e05f6b9d054177efd56b71ea125ae5420df616f8e3d9378c1f0
+Description: Systemd service to load PocketCHIP configs
+ This service checks to see if the booting CHIP is inside a pocketchip, and
+ in response, loads or doesn't load several configuration files.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-load
+Priority: optional
+Section: unknown
+Installed-Size: 43
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1
+Filename: pool/main/p/pocketchip-load/pocketchip-load_0.1_armhf.deb
+Size: 2366
+MD5sum: 0855bac119ad671d4bf289bb8d5de1fb
+SHA1: 7352324525bffe4215aecb4e1a090dbabffc397a
+SHA256: 554a966c024c66d3d5ed971545c517f7a143e1ca041f1426aafe124be4d56dfe
+Description: Systemd service to load PocketCHIP configs
+ This service checks to see if the booting CHIP is inside a pocketchip, and
+ in response, loads or doesn't load several configuration files.
+Homepage: opensource.nextthing.co
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 1994
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.6
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.6_armhf.deb
+Size: 1550476
+MD5sum: f9e519354afa30863fa48d6d0c4fd226
+SHA1: 766285308d101d7b43287b180474f5c4923fd1e6
+SHA256: 8bf0e790083a4c350a6c16cf58dfd669e9001c4bc46869eb7223bf51ab21603a
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 1809
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.5
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.5_armhf.deb
+Size: 1449192
+MD5sum: 05a5d07a498cb4cda9b35b75afb3ba57
+SHA1: 5f460be6091c4040f05d3600b991b320a1c362f9
+SHA256: 866c1767bf443d29f464350e2cf5421b541519a49871e933370ce85bffdee044
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 6089
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.4
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.4_armhf.deb
+Size: 5538368
+MD5sum: 7419ad250bb639d63a6cbce2def46e52
+SHA1: 1884db8074d98c85d93e5cad7edab2e6422957f4
+SHA256: 54d5e99e3bfd6e004b54df8c3424666795da4b3dd1e9ba07a6639ed94ea00292
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 6208
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.3
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.3_armhf.deb
+Size: 5613228
+MD5sum: 4a6cd21c8cd4f511e8c751b012278dd3
+SHA1: a483366c788d98007c27ce927bc86b9d761c2fef
+SHA256: fd72d12a876af35e2d10602d310f63faf1f2ed0b7e3db2063f69cafc03b0b076
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 8216
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.2
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.2_armhf.deb
+Size: 7495198
+MD5sum: 35a4c2c98e3c603dad34c3a7675b3cc5
+SHA1: 0af282e7caa3001733bb851b6d8486ba9e840051
+SHA256: e7a26ed0c4161a301686aed78ee1083cf7e6661619680c707bb31aaa106fcca0
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Priority: optional
+Section: embedded
+Installed-Size: 260
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1
+Filename: pool/main/p/pocketchip-localdoc/pocketchip-localdoc_0.1_armhf.deb
+Size: 197520
+MD5sum: 2efa7136a533e7510652e0188f8f64f7
+SHA1: 268b622dadd4972dcd6b70eddaa924912d34f8f7
+SHA256: fb6e1b141f184c49fccb75b275a77d21be78ba03ee7bab8c3bc97d48d1092f0c
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 850
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.9
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.9_armhf.deb
+Size: 775352
+MD5sum: 81631c661334b9574ab6d80c0337fa98
+SHA1: ab763d2e5cbf0663216d891c885bcde9bd8c1124
+SHA256: ab642e0edd9e2cace509dc7ce185d3c9c0d92344754678cfce7ecb14f0e466ce
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 823
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.8
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.8_armhf.deb
+Size: 766304
+MD5sum: b94312f154d6a4629a129d3eb03e6a6d
+SHA1: a9bfbed236748b0c0e7936ba0ae2e7feb6b22143
+SHA256: 5a90d082e03985f4cf47159010e56017744edfa881e27396360093ff72c3b484
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 941
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.6
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.6_armhf.deb
+Size: 897202
+MD5sum: 3c23db181a76ad84e0d0e87be17e9c23
+SHA1: 9eaaa89b54224058ab143fa73faffc2f2978057e
+SHA256: 39fc26f7bf8aa42a2bcbba01b13ec74ab193507c607fa5ed80b2e84de63bcd1b
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 413
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.4
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.4_armhf.deb
+Size: 386138
+MD5sum: 3c8a51b6645241907e2dc7ba79bd123d
+SHA1: 30eaf8b672b07d8f415d321daa30c222abe477b8
+SHA256: 88e307958956087c017653abebc89af7544b3928669a9c32acaec54c54aaaf41
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 1010
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.3
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.3_armhf.deb
+Size: 948032
+MD5sum: 86f415a9536667f4427fded3fad03d6d
+SHA1: 5318a0b9a1863029ba57665cfa2c88b1003d0781
+SHA256: efcccf526d4605fb939649060b993d8f519857dc0009b2eb284b7196c819bac0
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 347
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.2
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.2_armhf.deb
+Size: 327768
+MD5sum: e74b0e84d4ee070c4dbbf0b61a42262b
+SHA1: e21e94a239621d932ae4bed8aa981c983838ccec
+SHA256: e84f5d131ffb637ee6a7bade04257456e3416681c7a28a965b71293cd8e6939b
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-onboard
+Priority: optional
+Section: embedded
+Installed-Size: 131
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: armhf
+Version: 0.1
+Filename: pool/main/p/pocketchip-onboard/pocketchip-onboard_0.1_armhf.deb
+Size: 109872
+MD5sum: e390c9aebb6b76ab41172c718a980c48
+SHA1: be8b560e51e3b569be9b3b3f0feac5d0c36f9b44
+SHA256: bfe4cafb8ae13a00c1316800f38c33f4e9c40dde6088067ca502291c3be2f276
+Description: PocketCHIP onboarding display
+ A series of images to get the user more familiar with PocketCHIP's interface. Also includes images for pico8 and sunvox
+Homepage: github.com/nextthingco
+
+Package: pocketchip-update
+Priority: optional
+Section: embedded
+Installed-Size: 10
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Filename: pool/main/p/pocketchip-update/pocketchip-update_0.1_all.deb
+Size: 1350
+MD5sum: 2a63c22e3b6dada99338da5a89208f5c
+SHA1: 223aef03bc240e26cd9f68819ff74862f74bf51b
+SHA256: 7aa5eb6c3838c623b963d892514a2426a7e3eb7f11e77ee685eaaa72add78c48
+Description: Pocketchip update script
+ Package for maintaining PocketCHIPs update mechanism
+Homepage: github.com/nextthingco
+
+Package: puredata
+Priority: optional
+Section: sound
+Installed-Size: 28
+Maintainer: Paul Brossier <piem@debian.org>
+Architecture: all
+Version: 0.46.7-3
+Depends: puredata-core, puredata-gui, puredata-doc, puredata-extra, puredata-utils, puredata-dev
+Recommends: gem
+Suggests: pd-csound, pd-pdp, pd-zexy, pd-aubio
+Filename: pool/main/p/puredata/puredata_0.46.7-3_all.deb
+Size: 17562
+MD5sum: 893eb72c865d0bc7c2df2c52f9635595
+SHA1: ab535221c5e54d276c649a45d0e6e545b32c6c93
+SHA256: 01b1351bffe1dc8806ec457012d3b7c338f8954834703b42dceb5ddcd90563ef
+Description: realtime computer music and graphics system
+ Pure Data (also known as Pd) is a real-time graphical programming environment
+ for audio and graphics processing. Pd's audio functions are built-in;
+ graphical computations require separate packages such as gem (Graphics
+ Environment for Multimedia) or pd-pdp (Pd Packet).
+Homepage: http://puredata.info
+
+Package: rtl8723bs-bt
+Priority: optional
+Section: unknown
+Installed-Size: 136
+Maintainer: Jason Abele <jason@nextthing.co>
+Architecture: armhf
+Version: 0.1-4
+Depends: libc6 (>= 2.19)
+Filename: pool/main/r/rtl8723bs-bt/rtl8723bs-bt_0.1-4_armhf.deb
+Size: 39758
+MD5sum: 594beaad2149635b43e3d69cdae980aa
+SHA1: 501bf51977b00ca4c7ae8ede3115664afe98fe80
+SHA256: f83a9368267728c768050f72639c096c7b3ce0f771bf29ceaf63da0da9dc1b17
+Description: startup and firmware for rtl8723bs bluetooth
+ This package provides startup scripts and firmware for the rtl8723bs bluetooth
+ devices.
+Homepage: <insert the upstream URL, if relevant>
+
+Package: rtl8723bs-mp-driver-common
+Priority: optional
+Section: main/kernel
+Installed-Size: 36
+Maintainer: Jason Abele <jason@nextthing.co>
+Architecture: all
+Source: rtl8723bs-mp-driver
+Version: 4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2
+Recommends: rtl8723bs-mp-driver-source, module-assistant
+Filename: pool/main/r/rtl8723bs-mp-driver/rtl8723bs-mp-driver-common_4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2_all.deb
+Size: 2826
+MD5sum: 4cf22cb7d8db874d6f00f7a62ffc57f6
+SHA1: 63f4b3d83d66cb63b8a204d9b6e6db8e6997b276
+SHA256: 7c0ad5e78945ee02947e7021b93f7503e0bdd6d5af0cb7ef5c84379d9b55a3f9
+Description: Common files for the Realtek rtl8723bs Wireless driver
+ RTL8723BS MP Driver is a device driver for the Realtek IEEE 802.11b/g/n
+ rtl8723bs SDIO wireless network card.
+ .
+ This package contains the common files.
+Homepage: https://github.com/NextThingCo/RTL8723BS
+
+Package: rtl8723bs-mp-driver-modules-4.3.0-ntc
+Priority: optional
+Section: main/kernel
+Installed-Size: 1777
+Maintainer: Jason Abele <jason@nextthing.co>
+Architecture: all
+Source: rtl8723bs-mp-driver (4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2)
+Version: 4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-45
+Provides: rtl8723bs-mp-driver-modules
+Depends: linux-modules-4.3.0-ntc | linux-image-4.3.0-ntc, rtl8723bs-mp-driver-common
+Filename: pool/main/r/rtl8723bs-mp-driver/rtl8723bs-mp-driver-modules-4.3.0-ntc_4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-45_all.deb
+Size: 428036
+MD5sum: 583163d64790f61097f52364fdb7e137
+SHA1: 455e84d08271a7b27b85e897f992fced62985654
+SHA256: 67eea371048209bea0aaa3913695da7f8304a488c7317b8c608eb9b62e45ee95
+Description: rtl8723bs-mp-driver modules for Linux (kernel 4.3.0-ntc)
+ RTL8723BS MP Driver is a device driver for the Realtek IEEE 802.11b/g/n
+ rtl8723bs SDIO wireless network card.
+ .
+ This package contains the set of loadable kernel modules for the
+ rtl8723bs-mp-driver wireless network driver.
+ .
+ This package contains the compiled kernel modules for 4.3.0-ntc
+ .
+ If you have compiled your own kernel, you will most likely need to build your
+ own rtl8723bs-mp-driver-modules. The rtl8723bs-mp-driver-source package has
+ been provided for use with the Debian's module-assistant or kernel-package
+ utilities to produce a version of rtl8723bs-mp-driver-modules for your kernel.
+Homepage: https://github.com/NextThingCo/RTL8723BS
+
+Package: rtl8723bs-mp-driver-modules-4.3.0-ntc
+Priority: optional
+Section: main/kernel
+Installed-Size: 1807
+Maintainer: Jason Abele <jason@nextthing.co>
+Architecture: all
+Source: rtl8723bs-mp-driver (4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2)
+Version: 4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-42
+Provides: rtl8723bs-mp-driver-modules
+Depends: linux-modules-4.3.0-ntc | linux-image-4.3.0-ntc, rtl8723bs-mp-driver-common
+Filename: pool/main/r/rtl8723bs-mp-driver/rtl8723bs-mp-driver-modules-4.3.0-ntc_4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-42_all.deb
+Size: 429086
+MD5sum: e5ca31bdff62f19bac689f3ccaa7b343
+SHA1: 5cfdb12df93a85ab1c02c20b69acb7014b336508
+SHA256: e866d97879ba0cf5f8608919fe0b3446fd0988dff008570505a433cb3d2407e6
+Description: rtl8723bs-mp-driver modules for Linux (kernel 4.3.0-ntc)
+ RTL8723BS MP Driver is a device driver for the Realtek IEEE 802.11b/g/n
+ rtl8723bs SDIO wireless network card.
+ .
+ This package contains the set of loadable kernel modules for the
+ rtl8723bs-mp-driver wireless network driver.
+ .
+ This package contains the compiled kernel modules for 4.3.0-ntc
+ .
+ If you have compiled your own kernel, you will most likely need to build your
+ own rtl8723bs-mp-driver-modules. The rtl8723bs-mp-driver-source package has
+ been provided for use with the Debian's module-assistant or kernel-package
+ utilities to produce a version of rtl8723bs-mp-driver-modules for your kernel.
+Homepage: https://github.com/NextThingCo/RTL8723BS
+
+Package: rtl8723bs-mp-driver-modules-4.3.0-ntc
+Priority: optional
+Section: main/kernel
+Installed-Size: 1807
+Maintainer: Jason Abele <jason@nextthing.co>
+Architecture: all
+Source: rtl8723bs-mp-driver (4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2)
+Version: 4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-40
+Provides: rtl8723bs-mp-driver-modules
+Depends: linux-modules-4.3.0-ntc | linux-image-4.3.0-ntc, rtl8723bs-mp-driver-common
+Filename: pool/main/r/rtl8723bs-mp-driver/rtl8723bs-mp-driver-modules-4.3.0-ntc_4.3.16-13854.20150410-BTCOEX20150119-5844-ntc-2+4.3.0-40_all.deb
+Size: 428768
+MD5sum: a7db346ee82ae7e3cc52687af4af5636
+SHA1: 892bb00fa30725da478239b3e119c26b94ba0135
+SHA256: 85e267de71c76ad89651220dcb95cd1b236ac99962ced43e326732d5983dba70
+Description: rtl8723bs-mp-driver modules for Linux (kernel 4.3.0-ntc)
+ RTL8723BS MP Driver is a device driver for the Realtek IEEE 802.11b/g/n
+ rtl8723bs SDIO wireless network card.
+ .
+ This package contains the set of loadable kernel modules for the
+ rtl8723bs-mp-driver wireless network driver.
+ .
+ This package contains the compiled kernel modules for 4.3.0-ntc
+ .
+ If you have compiled your own kernel, you will most likely need to build your
+ own rtl8723bs-mp-driver-modules. The rtl8723bs-mp-driver-source package has
+ been provided for use with the Debian's module-assistant or kernel-package
+ utilities to produce a version of rtl8723bs-mp-driver-modules for your kernel.
+Homepage: https://github.com/NextThingCo/RTL8723BS
+
+Package: smtube
+Priority: extra
+Section: graphics
+Installed-Size: 684
+Maintainer: Ricardo Villalba <rvm@users.sourceforge.net>
+Architecture: armhf
+Version: 16.1.0
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.4.0), libqt4-network (>= 4:4.6.1), libqt4-script (>= 4:4.5.3), libqtcore4 (>= 4:4.7.0~beta1), libqtgui4 (>= 4:4.6.1), libqtwebkit4 (>= 2.1.0~2011week13), libstdc++6 (>= 4.3.0), smplayer (>= 0.7.0) | mplayer | mpv | vlc | dragonplayer | totem | gnome-mplayer
+Filename: pool/main/s/smtube/smtube_16.1.0_armhf.deb
+Size: 265666
+MD5sum: 054ee0c43630e4989a4759a74cca180a
+SHA1: fdac0553a0658606eea91250230643b86cfe7ad8
+SHA256: 84f40da03ac304dc75e058edf9931fde2a800c68be00181b5fa260a03f750a47
+Description: YouTube browser for SMPlayer
+ This is a YouTube browser for SMPlayer. You can browse, search
+ and play YouTube videos.
+Homepage: http://smtube.sourceforge.net/
+
+Package: technosequencer
+Priority: optional
+Section: sound
+Installed-Size: 227
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.12
+Depends: puredata
+Filename: pool/main/t/technosequencer/technosequencer_0.12_all.deb
+Size: 39258
+MD5sum: b4c0fc884212654679eb54cbc6c95a32
+SHA1: f5707a7079ebed181e9beec972ad5cbae3c19cf9
+SHA256: 7bfdec1ab8866802b4afcf2a07a31fef9967650452ee2df5bad06c65c9ac065d
+Description: A midi step sequencer
+ A midi step sequencer designed for PocketCHIP and used with sound engines such as SunVox
+Homepage: https://github.com/nextthing.co
+
+Package: technosequencer
+Priority: optional
+Section: sound
+Installed-Size: 215
+Maintainer: Ben Young <software@nextthing.co>
+Architecture: all
+Version: 0.1
+Depends: puredata
+Filename: pool/main/t/technosequencer/technosequencer_0.1_all.deb
+Size: 35534
+MD5sum: a28e141c1b4ebaeda0ab865930231e89
+SHA1: e620de0ec3f2267d7790bf51e8efd98d085eae79
+SHA256: 4553eb59ccbb010b7a1a1d0af6b3b254ac063f2e4333949953d77264f128a5b7
+Description: A midi step sequencer
+ A midi step sequencer designed for PocketCHIP and used with sound engines such as Sunvox
+Homepage: https://github.com/nextthing.co
+
+Package: xserver-xorg-video-armsoc
+Priority: optional
+Section: x11
+Installed-Size: 109
+Maintainer: Maxime Ripard <maxime.ripard@free-electrons.com>
+Architecture: armhf
+Source: xf86-video-armsoc
+Version: 1.4-1
+Provides: xorg-driver-video
+Depends: libc6 (>= 2.15), libdrm2 (>= 2.4.36), libpixman-1-0, xorg-video-abi-18, xserver-xorg-core (>= 2:1.15.99.903)
+Filename: pool/main/x/xf86-video-armsoc/xserver-xorg-video-armsoc_1.4-1_armhf.deb
+Size: 29510
+MD5sum: 748be6cea7f8d09bc524342f458c20b4
+SHA1: b1c737930eda1633d951120af453374a23fc371e
+SHA256: 5f249cfa708e4d3aff9a29b6656ca45c7db7ab62dc7bc5d0f03abe72b863d526
+Description: X.Org X Server -- ARM SoC display driver for sun4i DRM
+
