@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Date: Tue, 10 Aug 2021 18:32:07 UTC
+MD5Sum:
+ 661ee5cc440304689653584c5a075384              790 Packages
+ ae851eb651c43b9dddce127e5f71dccf              550 Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+SHA1:
+ eab4ee8364690fc3ba023e3c1f7e95e39448050a              790 Packages
+ 125e1c113fbd2052aa6e6731f494bd892eb99688              550 Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+SHA256:
+ fed5f99752f4acbc374a6e9874eed3368ae89a5edb5e55b19a9974d72baf3fc3              790 Packages
+ 4e16e27813daae8175e2c23a4f9713f72409aade05d6f4f4da965155964e96d1              550 Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+SHA512:
+ d53bd13ed9898dc60214485f13d5b2175bcac7cb98d129dca53a5ef2d44e9f106de47bcf54f1033c9136bae09b8feae8732ae4fab9d9190a41cd9840e42e3c94              790 Packages
+ 16b545c7c6b0996df99b8eaced154e6d3c3de308419cbcbcfbf2c50424f058f912507349357a70d19921412586dfa7303d16bbe57fd4ba63cb8e00f10b1afc12              550 Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJhEsZ1AAoJEByXFcxM7nmcOZUQAJiapUmr3QnBujEJvBMEnKFX
+7Y1lMU98TBkpSaoAZWxsH5el+fyJvUxbb0SMiisuQUnIZkq4l8ZaP57UEJN8gSX5
+9NqWOEFLffMKqxxKmVjG6iMzv5RWSib+okCmzYD5rEdjVhSAB0Hg0VRLypq1KbGy
+zC0aeybUjSAnmEfN1epcYouLIT22Y+1BIYd4CRtOXkZ9rsDmJszoX0AbJra5rIsN
+Kaqj3+3iX3XH9vMnyg0/ar2xdPXd3Yy2uSPSbA1pKn/HF4lQQeBznhJXfMdw6H01
+igrPeNgHWSBr17ZTezrKAFBuIKh7FpHkQt2GxSCGzhNxpGh37t5BDvSVvleatxOq
+LSdMbfh5hceFxvhOYsfN+5/wdBWGEe+uxblDuFz9jQxnMaMNrfBfxfSjcUVNAvjY
+g9VD4yet9OdDHUMUj6OvOcOP71IJ/+93gWjjvWIBnc5H000pzLsJHJclTtRW8r6B
+T1SITC+yOOBzjFcPSj/gH6dgmvY0sbg/id5YZmkniWJER7tDxB2M66vlFdeocsVW
+LyDSd3PYTUYTspnj5XMW7IxPMtelAeNb5GT+5XU9Zj75a5mgLVPNK0ta+/ZVwvNA
+o2Yb66czw4uS9XGb6NZggPygQfPSzfie4dtiPt5KkAvpJ+6bLbo7C+zlAjzAAERK
+1WQ9f5H025QeH381g9Ms
+=2FQh
+-----END PGP SIGNATURE-----
