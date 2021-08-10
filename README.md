@@ -18,8 +18,18 @@ deb http://opensource.nextthing.co/chip/debian/pocketchip jessie main
 ### New value
 
 ```
+# Mirror of NTC repos
 deb https://repo.chip.guide/chip/debian/repo jessie main
 deb https://repo.chip.guide/chip/debian/pocketchip jessie main
+
+# Additional updated packages from the chip.guide repos
+deb https://repo.chip.guide/chip/debian/chip.guide ./
+```
+
+To use the additional packages repo you will need to add our public key:
+
+```
+wget -qO - https://repo.chip.guide/chip/debian/chip.guide/KEY.gpg | apt-key add -
 ```
 
 You will also need o update your `/etc/apt/preferences` to use the new apt mirror:
@@ -45,7 +55,7 @@ Pin-Priority: 1050
 
 ### Public key warning
 
-If you have any key warnings when running `apt`, you could try importing the NTC public key:
+If you have any key warnings about the NTC GPG key when running `apt`, you could try importing the NTC public key:
 
 ```
 wget -qO - https://repo.chip.guide/NTC.pub | apt-key add -
