@@ -29,7 +29,7 @@ deb https://repo.chip.guide/chip/debian/chip.guide ./
 To use the additional packages repo you will need to add our public key:
 
 ```
-wget -qO - https://repo.chip.guide/chip/debian/chip.guide/KEY.gpg | apt-key add -
+wget -qO - https://repo.chip.guide/chip/debian/chip.guide/KEY.gpg | sudo apt-key add -
 ```
 
 You will also need o update your `/etc/apt/preferences` to use the new apt mirror:
